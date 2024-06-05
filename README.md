@@ -1,0 +1,1 @@
+# Write-a-Basic-NFT-Contract-made-by-using-Solidity-Remix-IDE-and-OpenZeppelin.-
